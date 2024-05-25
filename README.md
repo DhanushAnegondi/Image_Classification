@@ -80,8 +80,6 @@ The project successfully demonstrated the effectiveness of using advanced deep l
 
 This project showcases the potential of modern deep learning techniques in solving complex image classification tasks and highlights the benefits of leveraging pre-trained models for efficient and accurate performance.
 
-Here's a comprehensive README file that explains the entire project, the models used, the steps performed, and the concluding results. This will help you document your project clearly on GitHub.
-
 ---
 
 
